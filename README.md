@@ -2,8 +2,8 @@
 Advanced Client Side - PAF GB Project (Funding-Body, Payment)
 <br />
 
-Name : H. D. A. E. Subawickrama <br />
-Student No : IT19063560
+* Name : H. D. A. E. Subawickrama <br />
+* Student No : IT19063560
 <br />
 
 ### Funding Body Service Client Side <br />
